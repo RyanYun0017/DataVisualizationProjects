@@ -22,6 +22,7 @@ The following tasks and questions will drive the visualization and interaction d
  * How will the car's mileage affect its selling price?
  * Try to give a plot of year vs. selling_price under different car type and car brand.
  * What is the most popular seller type under different car brand or mileage.
+ * I want to finally create a pie chart of this dataset. Each pie in this chart represents the number of sold cars under certain category. For example, the fuel time, the mileage range, the producing year range, or car brand. Viewer can select different category from the top menu, then view the piechart in same page. 
 
 ## Sketches
 
@@ -32,4 +33,4 @@ I made two hand draws of the Car Selling Dataset.
 
 ## Open Questions
 
-To group different raws sharing the same brand name, I need to give a filter to the car's name. I think it will be a challenge for me. 
+To finish the task for a multi-categories pie chart. I need to fix several problems. At first, I need to sort my dataset under different categories, then create menu through D3 module. I thing this could be the most difficult work in this project.
