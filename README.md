@@ -31,10 +31,25 @@ I made two hand draws of the Car Selling Dataset.
 * The upper sketch is to show portions of different brand for selling in this data set.
 * The lower sketch is giving a view of how selling price shaped in differnt car mileage.
 
-## Update 1 05-Nov
+## Update 1: 05-Nov
 [![Iterating with Vega-Lite API](https://user-images.githubusercontent.com/14350296/145515684-dd5fe1b8-a78b-4c5a-8129-bf323ef67165.png)](https://vizhub.com/RyanYun0017/be8be10fef604ef48c18950589e44fb4)
 I update the scatter plot of Car Selling Details dataset by Vega-Lite API. This method is more user-friendly and fast. I will update this project through this API in the following work. 
 
-## Open Questions
+## Update 2: 11-Nov
+[![Pie Chart with Vega-Lite API](https://user-images.githubusercontent.com/14350296/145516065-a5c5304b-ff91-466b-8533-f3e187cdf015.png)](https://vizhub.com/RyanYun0017/4f64b1765eee4bfe884654ec40765495?file=viz.js)
+In this update. I create a new pie chart using the Vega-Lite API. It is clearly show the producing year's distribution of all sold cars in India. 
 
-To finish the task for a multi-categories pie chart. I need to fix several problems. At first, I need to sort my dataset under different categories, then create menu through D3 module. I thing this could be the most difficult work in this project.
+## Update 3: 25-Nov
+[![Mutilple Views](https://user-images.githubusercontent.com/14350296/145516473-6e149d9c-c344-4229-832f-ce7e46ea31db.png)](https://vizhub.com/RyanYun0017/1ee33c0b245c471fae8028a6fb9c2a9d)
+In this update, I created multiple views of Car Selling Details dataset. And made them displayed in the same page. 
+
+## Update 4: 02-Dec - Multiple Views Refined
+[![Mutilple Views](https://user-images.githubusercontent.com/14350296/145516473-6e149d9c-c344-4229-832f-ce7e46ea31db.png)](https://vizhub.com/RyanYun0017/1ee33c0b245c471fae8028a6fb9c2a9d)
+Adding tooltips and color legend for the Multiple View Version. 
+
+## Conclusion
+After finishing this work, I learned a lot of usefull tools in creating charts and plots with D3 and Vega-Lite. The Car Selling Details dataset is a large dataset with more than 10000 points. I am hoping to sort all the cars name with a certain key word, for example, fillter them by key word "Honda" or "Ford". But this need some JavaScript programming skills which I am not good at. I will keep updating this project and make more good plots. 
+
+### Thanks for Reviewing
+
+
