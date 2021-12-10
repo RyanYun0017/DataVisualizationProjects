@@ -1,5 +1,9 @@
 # Data Visualization Project
 
+## Final Project Video
+
+The video is uploaded to the YouTube. Please click this [Link](https://www.youtube.com/watch?v=V0rHCva_L40&ab_channel=YunHaiyang) to see. 
+
 ## Data
 
 The data I propose to visualize for my project is The Car Selling Details in India. It collect the many attributs about car transaction in a long range of time. 
