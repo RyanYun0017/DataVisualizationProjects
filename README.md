@@ -36,7 +36,7 @@ I made two hand draws of the Car Selling Dataset.
 I update the scatter plot of Car Selling Details dataset by Vega-Lite API. This method is more user-friendly and fast. I will update this project through this API in the following work. 
 
 ## Update 2: 11-Nov
-[![Pie Chart with Vega-Lite API](https://user-images.githubusercontent.com/14350296/145516065-a5c5304b-ff91-466b-8533-f3e187cdf015.png)](https://vizhub.com/RyanYun0017/4f64b1765eee4bfe884654ec40765495?file=viz.js)
+[![Pie Chart with Vega-Lite API](https://user-images.githubusercontent.com/14350296/145516065-a5c5304b-ff91-466b-8533-f3e187cdf015.png)](https://vizhub.com/RyanYun0017/4f64b1765eee4bfe884654ec40765495)
 In this update. I create a new pie chart using the Vega-Lite API. It is clearly show the producing year's distribution of all sold cars in India. 
 
 ## Update 3: 25-Nov
