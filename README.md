@@ -29,7 +29,11 @@ The following tasks and questions will drive the visualization and interaction d
 ![The Hand Sketches](https://user-images.githubusercontent.com/14350296/134440610-9d0b9445-8df0-4744-bad9-9546bad3aee8.JPG)
 I made two hand draws of the Car Selling Dataset. 
 * The upper sketch is to show portions of different brand for selling in this data set.
-* The lower sketch is giving a view of how selling price shaped in differnt car mileage. 
+* The lower sketch is giving a view of how selling price shaped in differnt car mileage.
+
+## Update 1 05-Nov
+[![Iterating with Vega-Lite API](https://user-images.githubusercontent.com/14350296/145515684-dd5fe1b8-a78b-4c5a-8129-bf323ef67165.png)](https://vizhub.com/RyanYun0017/be8be10fef604ef48c18950589e44fb4)
+I update the scatter plot of Car Selling Details dataset by Vega-Lite API. This method is more user-friendly and fast. I will update this project through this API in the following work. 
 
 ## Open Questions
 
